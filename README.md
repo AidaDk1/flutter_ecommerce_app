@@ -1,4 +1,7 @@
 # flutter_ecommerce_app
+Description 
+My project is a mobile based application,which provides customers to purchase furnitures online.I want to mention how this application designed/built.
+
 
 ![Screenshot (84)](https://user-images.githubusercontent.com/65682383/141692757-bcc071e0-a6c0-4991-9fab-f8bfbc659674.png)
 
