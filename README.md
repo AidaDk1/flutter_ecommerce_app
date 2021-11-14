@@ -1,6 +1,11 @@
 # flutter_ecommerce_app
 Description 
-My project is a mobile based application,which provides customers to purchase furnitures online.I want to mention how this application designed/built.
+
+This simple project is a mobile based application,which provides customers to purchase furnitures online.
+And it contains wide variety of furnitures,such as chairs,sofas,cupboards etc.
+I want to mention the main features of this project:
+Home Page:Contanis itself navigation of different kind of furnitures(such as Chairs,sofas,cupboard,chandelier,tables bed)search button,product list
+and at the bottom of the page,there is also navigation of home/nearby/profile/
 
 
 ![Screenshot (84)](https://user-images.githubusercontent.com/65682383/141692757-bcc071e0-a6c0-4991-9fab-f8bfbc659674.png)
